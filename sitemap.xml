@@ -10,24 +10,24 @@
 
 
 <url>
-  <loc>https://nahklehos.github.io/</loc>
+  <loc>https://muhammad-sohel-khan.github.io/</loc>
   <image:image>
-    <image:loc>http://nahklehos.github.io/assets/images/sohel.jpg</image:loc>
+    <image:loc>http://muhammad-sohel-khan.github.io/assets/images/sohel.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>http://nahklehos.github.io/assets/images/sohel1.jpg</image:loc>
+    <image:loc>http://muhammad-sohel-khan.github.io/assets/images/sohel1.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>http://nahklehos.github.io/assets/images/sohel2.jpg</image:loc>
+    <image:loc>http://muhammad-sohel-khan.github.io/assets/images/sohel2.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>http://nahklehos.github.io/assets/images/sohel3.jpg</image:loc>
+    <image:loc>http://muhammad-sohel-khan.github.io/assets/images/sohel3.jpg</image:loc>
   </image:image>
   <lastmod>2021-05-15T14:55:23+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://nahklehos.github.io/youtube</loc>
+  <loc>https://muhammad-sohel-khan.github.io/youtube</loc>
   <video:video>
   <video:player_loc allow_embed="yes">https://www.youtube.com/v/10kShv5A0tM?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1&amp;autoplay=1</video:player_loc>
   <video:thumbnail_loc>https://img.youtube.com/vi/10kShv5A0tM/default.jpg</video:thumbnail_loc>
@@ -50,7 +50,6 @@
   <video:category>Guiter</video:category>
   </video:video>
   
-  <loc>https://nahklehos.github.io/youtube</loc>
   <video:video>
   <video:player_loc allow_embed="yes">https://www.youtube.com/v/bmEZeft6I-s?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1&amp;autoplay=1</video:player_loc>
   <video:thumbnail_loc>https://img.youtube.com/vi/bmEZeft6I-s/default.jpg</video:thumbnail_loc>
@@ -77,18 +76,18 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nahklehos.github.io/imgs</loc>
+  <loc>https://muhammad-sohel-khan.github.io/imgs</loc>
   <image:image>
-    <image:loc>http://nahklehos.github.io/assets/images/sohel4.jpg</image:loc>
+    <image:loc>http://muhammad-sohel-khan.github.io/assets/images/sohel4.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>http://nahklehos.github.io/assets/images/sohel5.jpg</image:loc>
+    <image:loc>http://muhammad-sohel-khan.github.io/assets/images/sohel5.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>http://nahklehos.github.io/assets/images/sohel6.jpg</image:loc>
+    <image:loc>http://muhammad-sohel-khan.github.io/assets/images/sohel6.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>http://nahklehos.github.io/assets/images/sohel7.jpg</image:loc>
+    <image:loc>http://muhammad-sohel-khan.github.io/assets/images/sohel7.jpg</image:loc>
   </image:image>
   <lastmod>2021-05-15T14:55:23+00:00</lastmod>
   <priority>0.80</priority>
